@@ -1,0 +1,3 @@
+have shower
+have bath
+have eat
